@@ -1,0 +1,3 @@
+I did this in Node.js. The final file is output as slcsp_output.csv. Make sure Node.js is installed and then run:
+
+$node app.js
