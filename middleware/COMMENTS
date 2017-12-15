@@ -1,0 +1,12 @@
+Middleware is written in Go, so user will have make sure Go is installed and their PATHs are configured properly.
+Program is run by entering: 
+go run middleware.go
+
+To get the checksum for your answer, you will need curl and to run it by entering:
+curl http://localhost:8080/ --head
+
+This outputs all the headers including X-Checksum which should include the checksum of 016858b824090bcd4e02c41e608416397200db10
+
+I really had a good time working on this problem. I was a bit intimidated at first as the extent of my Go experience was writing a Hello World app in school but it didn't take too long to figure it out.
+
+Thank you for your time and I'm excited to talk with you more soon!
